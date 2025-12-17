@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Saloni Upadhyay
 
-<!--
-**saloniupadhyay2490/saloniupadhyay2490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Passionate about learning programming and development  
+🌱 Currently learning Python, Java, and GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Programming Languages: Python, Java, C++
+- Web Technologies: HTML, CSS (Basics)
+- Tools & Platforms: Git, GitHub, GitHub Desktop
+- Databases: MySQL (Basics)
+
+---
+
+## 📂 Projects
+### 🔹 GitHub Desktop Tutorial
+- Learned GitHub basics
+- Branching, commits, pull requests, merging
+- Tools used: GitHub Desktop
+
+(More projects coming soon 🚀)
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/saloniupadhyay2490
+
+
